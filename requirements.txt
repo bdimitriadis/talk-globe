@@ -1,0 +1,9 @@
+fastrtc
+fastrtc[vad]
+openpyxl
+protobuf
+python-dotenv 
+scipy
+sentencepiece
+torchaudio
+transformers
